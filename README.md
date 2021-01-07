@@ -1,4 +1,4 @@
-# HID Keyboard BLE model
+# HID Keyboard BLE module
 
 蓝牙键盘模块，使用NRF52832
 
